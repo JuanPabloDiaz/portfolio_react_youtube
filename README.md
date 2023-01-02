@@ -56,3 +56,8 @@ Notes from the [video](https://www.youtube.com/watch?v=k-Pi5ZMxHWY):
 4. npm run dev
 5. Open localhost
 6. npm i react-icons
+
+---
+
+view [repository](https://github.com/JuanPabloDiaz/portfolio_react_youtube)
+view [Demo page](https://portfolio-react-youtube.vercel.app/)
